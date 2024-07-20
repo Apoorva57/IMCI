@@ -1,0 +1,1 @@
+Patient name - Apoorva, Age - 23, sex - Female, weight - 47, height - 5'3, blood group - A+, diseases - Hypertension, Other, currently on medication - Yes, list of current medication- Azithromycin, known allergy - Yes, list of known allergies- Dust, purpose of visit - Heavy Fever

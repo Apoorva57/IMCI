@@ -1,0 +1,29 @@
+Prediction using specialized ml model that the patient has a specific type of brain tumor, accurate up to 90% 
+ Glioma (Astrocitoma, Ganglioglioma, Glioblastoma, Oligodendroglioma, Ependimoma) T1 : 0.6869077682495117
+ Glioma (Astrocitoma, Ganglioglioma, Glioblastoma, Oligodendroglioma, Ependimoma) T1C+ : 0.010003526695072651
+ Glioma (Astrocitoma, Ganglioglioma, Glioblastoma, Oligodendroglioma, Ependimoma) T2 : 0.001050265389494598
+ Meningioma (de Baixo Grau, Atípico, Anaplásico, Transicional) T1 : 0.09486009925603867
+ Meningioma (de Baixo Grau, Atípico, Anaplásico, Transicional) T1C+ : 0.001300912001170218
+ Meningioma (de Baixo Grau, Atípico, Anaplásico, Transicional) T2 : 0.00026699737645685673
+ NORMAL T1 : 0.1329832226037979
+ NORMAL T2 : 0.00034352263901382685
+ Neurocitoma (Central - Intraventricular, Extraventricular) T1 : 0.006711964961141348
+ Neurocitoma (Central - Intraventricular, Extraventricular) T1C+ : 0.00010720085265347734
+ Neurocitoma (Central - Intraventricular, Extraventricular) T2 : 1.3833245247951709e-05
+ Outros Tipos de Lesões (Abscessos, Cistos, Encefalopatias Diversas) T1 : 0.006620679050683975
+ Outros Tipos de Lesões (Abscessos, Cistos, Encefalopatias Diversas) T1C+ : 7.144011033233255e-05
+ Outros Tipos de Lesões (Abscessos, Cistos, Encefalopatias Diversas) T2 : 5.01782342325896e-05
+ Schwannoma (Acustico, Vestibular - Trigeminal) T1 : 0.0580298975110054
+ Schwannoma (Acustico, Vestibular - Trigeminal) T1C+ : 0.00042866889270953834
+ Schwannoma (Acustico, Vestibular - Trigeminal) T2 : 0.00024987751385197043
+ prediction ends here
+Prediction using specialized ml models that the patient has alzheimer that are accurate 94% of times 
+ VeryMildDemented : 0.4605129063129425
+ NonDemented : 0.35427433252334595
+ MildDemented : 0.11081483960151672
+ ModerateDemented : 0.07439795136451721
+ prediction ends here
+Prediction of specialized ml models that the patient has glaucoma 
+ Glaucoma : 0.9998631477355957
+ Non-glaucoma : 0.00013684399891644716
+ prediction ends here
