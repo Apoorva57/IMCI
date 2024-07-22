@@ -5,7 +5,6 @@ IMCI is an innovative multimodal AI system designed to revolutionize the patient
 - Project made in 36 hours AI/ML National Hackathon Finals at Parul University, Vadodara
 - Team Name: Viva la Qbit (MA_095)
 - Team Members: Kushagra Dwivedi, Apoorva
-- Google Colab link: https://colab.research.google.com/drive/1o9bWl6aV37Rkr_VT0C84we46B-Nw3iu7?usp=sharing
 
 ## Key Features:
 - Incorporates various diagnostic tests with the ability to add more as needed.
